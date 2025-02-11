@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) Hrayr Muradyan, Merari Santana-Carbajal, Joseph Lim, Mason Zhang 
+Copyright (c) 2025 Hrayr Muradyan, Merari Santana-Carbajal, Joseph Lim, Mason Zhang 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
